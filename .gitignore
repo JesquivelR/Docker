@@ -1,0 +1,47 @@
+# Logs
+logs/
+*.log
+*.log.*
+
+# Ignore .env files
+.env
+.env.*
+
+# Ignore Docker-specific files
+.dockerignore
+docker-compose.override.yml
+docker-compose.override.*.yml
+
+# Ignore Docker volumes
+volumes/
+*.data/
+*.pid
+*.seed
+
+# Ignore build artifacts
+build/
+tmp/
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE and editor files
+.idea/
+*.iml
+.vscode/
+*.code-workspace
+*.sublime*
+
+# Ignore node_modules
+node_modules/
+
+# Ignore Python virtual environments
+venv/
+__pycache__/
+*.pyc
+*.pyo
