@@ -24,6 +24,10 @@ Each project includes its own directory with:
 - **Description:** A Docker-based web application using Nginx.  
 - **Technologies used:** Docker, Docker Compose, Nginx, HTML.  
 
+### 📌 Project 2: [CRUD Application with Flask and Docker](./docker-projects/02-crud-docker-flask/)
+- **Description:** A CRUD web application using Flask as the web framework and PostgreSQL as the database.   
+- **Technologies used:** Docker, Docker Compose, Flask, Postgres. 
+
 
 *(More projects will be added soon...)*
 
